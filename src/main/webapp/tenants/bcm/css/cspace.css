@@ -189,7 +189,7 @@ input[type="button"].deleteButton, input[type="submit"].deleteButton {
 	border-radius:4px;}
 input[type="button"].deleteButton:hover, input[type="submit"].deleteButton:hover,
 input[type="button"].deleteButton:focus, input[type="submit"].deleteButton:focus {
-    background-color:#DAEDD1;}
+    background-color:#fbf9dc;}
 input[type="button"].deleteButton[disabled], input[type="submit"].deleteButton[disabled] {
     -moz-border-radius:4px;
     -webkit-border-radius:4px;
@@ -221,7 +221,7 @@ input[type="button"].duplicateButton, input[type="submit"].duplicateButton {
     color:#004d6c;}
 input[type="button"].duplicateButton:hover, input[type="submit"].duplicateButton:hover,
 input[type="button"].duplicateButton:focus, input[type="submit"].duplicateButton:focus {
-    background-color:#DAEDD1;}
+    background-color:#fbf9dc;}
 input[type="button"].searchButton, input[type="submit"].searchButton {
     background:#004d6c url('../images/icnSearch.png') no-repeat 8px 4px;
     padding-left:24px; 
@@ -253,7 +253,7 @@ input.secondaryButton {
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
 }
 input.secondaryButton:focus, input.secondaryButton:hover {
-    background-color:#DAEDD1;
+    background-color:#fbf9dc;
     text-decoration: underline;
 }
 .gotoButton {
@@ -271,7 +271,7 @@ input.secondaryButton:focus, input.secondaryButton:hover {
 	border-radius:4px;
     }
 .gotoButton:hover {
-    background-color:#DAEDD1;}
+    background-color:#fbf9dc;}
 .button-row {
     display: table-cell;
     vertical-align: middle;
@@ -424,8 +424,8 @@ li .flc-pager-pageLink {
     float:left; 
     background: #fff url("../images/BCMM_header_logo_long_temp.png") no-repeat left top;
     background-size: contain;
-    width:270px; 
-    height:51px;}
+    width:470px;
+    height:71px;}
 .header-menu-logo a {
     display:block; 
     height:51px; 
@@ -1931,7 +1931,7 @@ input[type=button].cs-mediaUploader-removeMedia {
 }
 input[type=button].cs-mediaUploader-removeMedia:hover,
 input[type=button].cs-mediaUploader-removeMedia:focus {
-    background-color: #DAEDD1;
+    background-color: #fbf9dc;
 }
 .cs-mediaUploader-fileUploaderContainer .fl-uploader-queue-footer {
     display:table-cell;
