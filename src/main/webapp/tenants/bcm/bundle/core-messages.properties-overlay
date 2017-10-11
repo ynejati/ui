@@ -18,8 +18,8 @@ login-invalid: Invalid email/password combination
 login-connectionError: Connection to the Services API failed.  Service layer may have failed to start or needs to be restarted.
 login-conflictError: Service layer encountered a conflict.  The user's tenant might be disabled.
 login-generalError: We are sorry, an error has occurred. Please try again, or contact your system administrator.
-login-current: The Birthplace of Country Music Museum's CollectionSpace
-login-deployment: CollectionSpace.org Version
+login-current: The Birthplace of Country Music Museum
+login-deployment: DISCOVER A STORY OF AMERICAN MUSIC
 
 login-current-details:
 

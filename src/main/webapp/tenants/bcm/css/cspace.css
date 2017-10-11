@@ -120,14 +120,14 @@ input[type="button"], input[type="submit"]  {
     border:none;}
 input[type="button"]:hover, input[type="submit"]:hover,
 input[type="button"]:focus, input[type="submit"]:focus {
-    background-color:#fcf0ac;}
+    background-color: #414142;}
 input[type="button"].saveButton, input[type="submit"].saveButton {
     background:#004d6c url('../images/icnSave.png') no-repeat 24px 4px;
     padding-left:40px; 
     padding-right:20px; }
 input[type="button"].saveButton:hover, input[type="submit"].saveButton:hover,
 input[type="button"].saveButton:focus, input[type="submit"].saveButton:focus {
-    background-color:#fcf0ac;}
+    background-color:#414142;}
 input[type="button"].createFromExistingButton, input[type="submit"].createFromExistingButton {
     background-color:#004d6c;
     padding:0 20px; }
@@ -140,7 +140,7 @@ input[type="button"].createFromExistingButton[disabled]:focus, input[type="submi
 }
 input[type="button"].createFromExistingButton:hover, input[type="submit"].createFromExistingButton:hover,
 input[type="button"].createFromExistingButton:focus, input[type="submit"].createFromExistingButton:focus {
-    background-color:#fcf0ac;}    
+    background-color:#414142;}
 input[type="button"].cancelButton, input[type="submit"].cancelButton {
     -moz-border-radius:4px; 
     -webkit-border-radius:4px;
@@ -148,7 +148,7 @@ input[type="button"].cancelButton, input[type="submit"].cancelButton {
     background:white url('../images/icnCancel.png') no-repeat 8px 4px;
     padding-left:24px; 
     padding-right:8px; 
-    color:#669922;}
+    color:#004d6c;}
 input[type="button"].cancelButton:hover, input[type="submit"].cancelButton:hover,
 input[type="button"].cancelButton:focus, input[type="submit"].cancelButton:focus {
     background-color:#DAEDD1;
@@ -175,7 +175,7 @@ input[type="button"].editButton, input[type="submit"].editButton {
     background:transparent url('../images/icnEdit.png') no-repeat 8px 4px;
     padding-left:24px; 
     padding-right:8px; 
-    color:#669922;}
+    color:#004d6c;}
 input[type="button"].editButton:hover, input[type="submit"].editButton:hover,
 input[type="button"].editButton:focus, input[type="submit"].editButton:focus {
     background-color:#DAEDD1;}
@@ -183,7 +183,7 @@ input[type="button"].deleteButton, input[type="submit"].deleteButton {
     background:white url('../images/icnDelete.png') no-repeat 8px 4px;
     padding-left:24px; 
     padding-right:8px; 
-    color:#669922;
+    color:#004d6c;
     -moz-border-radius:4px; 
     -webkit-border-radius:4px;
 	border-radius:4px;}
@@ -218,7 +218,7 @@ input[type="button"].duplicateButton, input[type="submit"].duplicateButton {
     background:transparent url('../images/icnDuplicate.png') no-repeat 8px 4px; 
     padding-left:24px; 
     padding-right:8px; 
-    color:#669922;}
+    color:#004d6c;}
 input[type="button"].duplicateButton:hover, input[type="submit"].duplicateButton:hover,
 input[type="button"].duplicateButton:focus, input[type="submit"].duplicateButton:focus {
     background-color:#DAEDD1;}
@@ -229,7 +229,7 @@ input[type="button"].searchButton, input[type="submit"].searchButton {
     color:#FFF;}
 input[type="button"].searchButton:hover, input[type="submit"].searchButton:hover,
 input[type="button"].searchButton:focus, input[type="submit"].searchButton:focus {
-    background-color:#fcf0ac;}
+    background-color:#414142;}
 input[type="button"].addButton, input[type="submit"].addButton {
     background:#004d6c url('../images/icnAdd_.png') no-repeat 8px 4px;
     padding-left:24px; 
@@ -238,7 +238,7 @@ input[type="button"].addButton, input[type="submit"].addButton {
     color:#FFF;}
 input[type="button"].addButton:hover, input[type="submit"].addButton:hover,
 input[type="button"].addButton:focus, input[type="submit"].addButton:focus {
-    background-color:#fcf0ac;}
+    background-color:#414142;}
 input[type="button"].add {
     height:16px;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
@@ -248,7 +248,7 @@ input[type="button"].add {
 input.secondaryButton {
     font-size:1em;
     background-color:#FFFFFF;
-    color:#fcf0ac;
+    color:#414142;
     border: 1px solid #C7CFD4;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
 }
@@ -262,7 +262,7 @@ input.secondaryButton:focus, input.secondaryButton:hover {
     padding: 3px 8px 3px 28px;
     font-weight:bold;
     font-size:13px;
-    color:#669922;
+    color:#004d6c;
     height: 21px;
     line-height: 13px;
     vertical-align: middle;
@@ -413,7 +413,7 @@ li .flc-pager-pageLink {
     background: #fff url("../images/BCMM_Logo_BLACK.png") no-repeat left top;
     background-size: contain;
     width:270px; 
-    height:51px;
+    height:150px;
 }
 
 
@@ -422,7 +422,7 @@ li .flc-pager-pageLink {
 .header-menu-logo {
     margin-top:15px; 
     float:left; 
-    background: #fff url("../images/header-logo.png") no-repeat left top;
+    background: #fff url("../images/BCMM_header_logo_long_temp.png") no-repeat left top;
     background-size: contain;
     width:270px; 
     height:51px;}
@@ -1651,7 +1651,7 @@ input[type="text"].cs-externalURL.cs-externalURL-error{
     color:#FFF;}
 .cs-searchBox .cs-searchBox-button:hover,
 .cs-searchBox .cs-searchBox-button:focus {
-    background-color:#fcf0ac;}
+    background-color:#414142;}
 .cs-searchBox .cs-searchBox-selectRecordType {
     width: auto; 
     color:#000;}
@@ -1784,7 +1784,7 @@ a.cs-searchBox-advancedSearch, a.cs-listView-header-link {
     background-color:#004d6c;}
 .cs-messageBar .cs-messageBar-cancel:hover,
 .cs-messageBar .cs-messageBar-cancel:focus {
-    background-color:#fcf0ac;}
+    background-color:#414142;}
 .cs-message-error .cs-messageBar-cancel {
     background-color:#C60018;}
 .cs-message-error .cs-messageBar-cancel:hover,
@@ -1860,7 +1860,7 @@ table td.fl-table .cs-externalURL-button, .information-subgroup .cs-externalURL-
     cursor: default;
 }
 .cs-mediaUploader .cs-mediaUploader-uploadButton:hover, .cs-mediaUploader .cs-mediaUploader-uploadButton:focus {
-    background-color: #fcf0ac;
+    background-color: #414142;
 }
 .cs-mediaUploader .cs-mediaUploader-uploadButton[disabled] .cs-mediaUploader .cs-mediaUploader-uploadButton[disabled]:hover, .cs-mediaUploader .cs-mediaUploader-uploadButton[disabled]:focus {
     background-color: #CCCCCC;
@@ -1925,7 +1925,7 @@ input[type=button].cs-mediaUploader-removeMedia {
     -webkit-border-radius:4px;
 	border-radius:4px;
     background: url("../images/icnCancel.png") no-repeat scroll 8px 4px transparent;
-    color: #669922;
+    color: #004d6c;
     padding-left: 24px;
     padding-right: 8px;
 }
