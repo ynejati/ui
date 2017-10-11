@@ -77,13 +77,13 @@
 #role .ui-tabs .ui-tabs-nav li a.inactive {cursor:default; background-color:#CCC; border:none; border-bottom:none;}
 
 #administration .ui-tabs .ui-tabs-nav li a ,
-#role .ui-tabs .ui-tabs-nav li a  { color:#FFF; 	background:#77AA44;}
+#role .ui-tabs .ui-tabs-nav li a  { color:#FFF; 	background:#004d6c;}
 
 #administration .ui-tabs .ui-tabs-nav li a.current,
-#role .ui-tabs .ui-tabs-nav li a.current { color:#77AA44; background-color:#FFF; border:2px solid #77AA44; border-bottom:2px solid #fff;}
+#role .ui-tabs .ui-tabs-nav li a.current { color:#004d6c; background-color:#FFF; border:2px solid #004d6c; border-bottom:2px solid #fff;}
 
 #administration .ui-tabs .ui-tabs-nav li a:hover, #administration .ui-tabs .ui-tabs-nav li a:focus,
-#role .ui-tabs .ui-tabs-nav li a:hover, #role .ui-tabs .ui-tabs-nav li a:focus { background:none repeat scroll 0 0 #48722D;}
+#role .ui-tabs .ui-tabs-nav li a:hover, #role .ui-tabs .ui-tabs-nav li a:focus { background:none repeat scroll 0 0 #414142;}
 
 #administration .ui-tabs .ui-tabs-nav li a.current:hover, #administration .ui-tabs .ui-tabs-nav li a.current:focus,
 #role .ui-tabs .ui-tabs-nav li a.current:hover, #role .ui-tabs .ui-tabs-nav li a.current:focus { background:none repeat scroll 0 0 #FFF;}
