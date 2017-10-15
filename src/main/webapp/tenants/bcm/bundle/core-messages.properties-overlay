@@ -8,6 +8,10 @@ login-footerLink:
 login-footerLast:
 # Cataloging
 cataloging-number: Catalog Number
+collection-object-objectNumberLabel: Catalog Number
+collection-object-otherNumberLabel: Other Number
+cataloging-identificationNumberRequired: Please specify an Catalog Number
+
 
 # Login
 #Login
